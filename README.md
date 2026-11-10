@@ -42,15 +42,16 @@ STM32 펌웨어부터 ROS2 비전, 관제 웹까지 한 시스템으로 묶었�
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/awards-dark.svg">
-    <img src="assets/awards.svg" alt="수상 13건 중 대상 2 · 최우수 4" width="100%">
+    <img src="assets/awards.svg" alt="수상 14건 중 대상 2 · 최우수 5" width="100%">
   </picture>
 </div>
 
 <details>
-<summary><b>수상 13건 전체 보기</b></summary>
+<summary><b>수상 14건 전체 보기</b></summary>
 
 | 시기 | 결과 | 대회 · 주최 |
 |---|---|---|
+| 2026.11 | **최우수** | 2026 「탄소, 다시 보다」 AI 콘텐츠 공모전 이미지 부문 · 한국탄소산업진흥원 |
 | 2026.10 | **대상** | 판타지아 대구 AI 페스타 카드뉴스 부문 |
 | 2026.05 | **최우수** | AI 활용 대학생 로컬임팩트 포럼 발표 부문 · 사단법인 루트임팩트 |
 | 2025.12 | **최우수** | KNU-UP 학생 창업아이템 시제품 제작 경진대회 · 경북대 지산학연협력기술연구소 |
@@ -416,9 +417,10 @@ InMoov i2Head · Arduino Mega · PCA9685 · Python · FastAPI · Whisper STT · 
 </details>
 
 <details>
-<summary><b>AI 도구로 만든 영상 · 디자인 | 대상 2건</b></summary>
+<summary><b>AI 도구로 만든 영상 · 디자인 · 웹툰 | 대상 2 · 최우수 1</b></summary>
 
 - **"모여서 만든 길"** — 한국도로공사 56주년 AI영상 공모전 대상. 영상 제작 경험 없이 혼자, GPT-4 · 미드저니 · Kling AI · Veo3 · 다빈치 리졸브 · 수퍼톤으로 역할을 나눠 56초를 만들었습니다. [YouTube](https://www.youtube.com/watch?v=juRqXqDQQds)
+- **《피고인 C, 당신은 CO₂입니까?》** — 2026 「탄소, 다시 보다」 AI 콘텐츠 공모전 이미지 부문 최우수 (한국탄소산업진흥원). '탄소'라는 한 단어 때문에 원소 C, 이산화탄소 CO₂, 탄소소재가 하나로 묶여 이해된다는 점에서 출발한 10컷 법정 코미디 웹툰입니다. CO₂로 오해받아 법정에 선 원소 C를 위해 탄소섬유 · 흑연 · 활성탄 · 카본블랙이 증인으로 나와 각자의 쓰임을 증언합니다. 2인 팀으로 작품명 · 콘셉트 · 10컷 스토리보드 · 대사를 정하고 이미지는 ChatGPT 이미지 생성으로 만들었으며, 탄소소재를 무조건 친환경이라고 하거나 확인되지 않은 수치를 쓰지 않는다는 제작 기준을 직접 세웠습니다.
 - **판타지아 대구 AI 페스타 카드뉴스** — 대상. 기획 의도 · 대사 · 규격 · 금지 사항을 지시문으로 고정하고, 앞선 컷을 참조 이미지로 넘겨 화풍을 이어 갔습니다. AI가 한 부분과 직접 한 부분은 제출 문서에 나눠 적었습니다.
 
 **포트폴리오** · [영상](https://my-project-one-sigma-74.vercel.app/project/video) · [디자인](https://my-project-one-sigma-74.vercel.app/project/design) · [출품작 모음](https://my-project-one-sigma-74.vercel.app/works)
