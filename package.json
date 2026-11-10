@@ -1,0 +1,15 @@
+{
+  "name": "mnunu123-profile",
+  "description": "GitHub 프로필 README용 SVG 생성기",
+  "scripts": {
+    "build": "node scripts/build.mjs"
+  },
+  "devDependencies": {
+    "jetbrains-mono": "^1.0.6",
+    "opentype.js": "^1.3.4",
+    "pretendard": "^1.3.9",
+    "wawoff2": "^2.0.1"
+  },
+  "private": true,
+  "type": "module"
+}
