@@ -42,15 +42,16 @@ STM32 펌웨어부터 ROS2 비전, 관제 웹까지 한 시스템으로 묶었�
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/awards-dark.svg">
-    <img src="assets/awards.svg" alt="수상 14건 중 대상 2 · 최우수 5" width="100%">
+    <img src="assets/awards.svg" alt="수상 15건 중 대상 3 · 최우수 5" width="100%">
   </picture>
 </div>
 
 <details>
-<summary><b>수상 14건 전체 보기</b></summary>
+<summary><b>수상 15건 전체 보기</b></summary>
 
 | 시기 | 결과 | 대회 · 주최 |
 |---|---|---|
+| 2026.11 | **대상** | 제1회 (사)한국부동산금융투자포럼 대학생 아이디어 공모대회 · 포럼 회장상 |
 | 2026.11 | **최우수** | 2026 「탄소, 다시 보다」 AI 콘텐츠 공모전 이미지 부문 · 한국탄소산업진흥원 |
 | 2026.10 | **대상** | 판타지아 대구 AI 페스타 카드뉴스 부문 |
 | 2026.05 | **최우수** | AI 활용 대학생 로컬임팩트 포럼 발표 부문 · 사단법인 루트임팩트 |
@@ -388,6 +389,18 @@ InMoov i2Head · Arduino Mega · PCA9685 · Python · FastAPI · Whisper STT · 
 `stack` Pleos Connect (AAOS) · ESP32 · WS2812B · 74AHCT125 · DC-DC 12V→5V
 
 **포트폴리오** · [PV5 택배 패키지](https://my-project-one-sigma-74.vercel.app/project/pv5)
+
+</details>
+
+<details>
+<summary><b>청년임대 리츠 | 한국부동산금융투자포럼 대학생 아이디어 공모대회 대상</b></summary>
+
+제1회 (사)한국부동산금융투자포럼 대학생 아이디어 공모대회 대상(포럼 회장상). 166명이 응모해 8명이 수상했습니다. 청년안심주택 공급이 끊긴 원인을 국채 수준 수익의 20년 자산을 10년 보유 사업자와 단기 PF로 조달하는 "자본 미스매치"로 보고, 인허가 단계에서 장기 리츠가 준공 시 매입을 약정해 개발과 보유를 나누는 구조를 제안했습니다.
+
+- 세대당 20년 현금흐름 모델을 실제 사업장과 2026년 모집공고로 보정하고, 몬테카를로 5,000회(보증금 위험) · 400회(효율경계)로 지원 방식 4가지를 비교
+- 제안 구조에서 세대당 기금 소요 2.06억 → 0.91억 원(−56%), 기금 1조 원당 지원 세대 4,854 → 11,032 (2.3배)
+
+**포트폴리오** · [숫자가 틀리면 안 되는 문서](https://my-project-one-sigma-74.vercel.app/project/docs)
 
 </details>
 

@@ -186,8 +186,8 @@ function hero(c) {
   b += `<path d="M${L} 374.5H470" stroke="url(#gFade)" stroke-width="1.2"/>`;
   // 숫자 3개
   const stats = [
-    ['14', '건', '공모전 수상'],
-    ['2', '회', '대상'],
+    ['15', '건', '공모전 수상'],
+    ['3', '회', '대상'],
     ['6,100', '만 원', '정부 R&D 과제'],
   ];
   let sx = L;
@@ -302,7 +302,7 @@ function ticker(c) {
 
 /* ───────────────────────── 3. section headers ───────────────────────── */
 const SECTIONS = {
-  'sec-awards': ['01', 'awards', '수상', '14 LOADED', 'amber'],
+  'sec-awards': ['01', 'awards', '수상', '15 LOADED', 'amber'],
   'sec-layers': ['02', 'layers', '하드웨어부터 서비스까지', 'L1 → L5', 'mint'],
   'sec-projects': ['03', 'projects', '주요 프로젝트', '06 FEATURED', 'coral'],
   'sec-more': ['04', 'more', '그 외 프로젝트', 'ARCHIVE', 'blue'],
@@ -332,6 +332,7 @@ function section(c, [num, title, sub, badge, accent]) {
 
 /* ───────────────────────── 4. awards ───────────────────────── */
 const AWARDS = [
+  ['2026.11', '대상', '제1회 한국부동산금융투자포럼 대학생 아이디어 공모대회', '포럼 회장상 · 선매입 약정과 장기자본 매칭형 청년임대 리츠 · 166명 응모, 8명 수상'],
   ['2026.11', '최우수', '「탄소, 다시 보다」 AI 콘텐츠 공모전', '이미지 부문 · 10컷 웹툰 《피고인 C, 당신은 CO₂입니까?》 · 한국탄소산업진흥원'],
   ['2026.10', '대상', '판타지아 대구 AI 페스타', '카드뉴스 부문 · 축제 9개를 하나의 이름으로 묶은 카드뉴스 10장'],
   ['2026.05', '최우수', 'AI 활용 대학생 로컬임팩트 포럼', '발표 부문 · 사단법인 루트임팩트'],
@@ -362,9 +363,9 @@ function awards(c) {
   const sy = Y0 + AWARDS.length * ROW + 34;
   b += `<path d="M40 ${sy - 26}H866" stroke="${c.line}" stroke-dasharray="3 5"/>`;
   b += R([{ t: '+ ', fill: c.dim, family: 'mono', weight: 700 }, { t: '우수 4 · 은상 1 · 장려 2', fill: c.muted, weight: 500 }], 78, sy, { size: 14 }).svg;
-  b += R([{ t: '합계 ', fill: c.muted, weight: 500, size: 14 }, { t: '14', fill: c.text, weight: 800, size: 18 }, { t: '건', fill: c.muted, weight: 600, size: 14 }], 866, sy, { anchor: 'end' }).svg;
+  b += R([{ t: '합계 ', fill: c.muted, weight: 500, size: 14 }, { t: '15', fill: c.text, weight: 800, size: 18 }, { t: '건', fill: c.muted, weight: 600, size: 14 }], 866, sy, { anchor: 'end' }).svg;
   return doc({
-    w: W, h: H, label: '수상 14건 중 대상 2 · 최우수 5 — ' + AWARDS.map((a) => `${a[0]} ${a[2]} ${a[1]}`).join(' / '),
+    w: W, h: H, label: '수상 15건 중 대상 3 · 최우수 5 — ' + AWARDS.map((a) => `${a[0]} ${a[2]} ${a[1]}`).join(' / '),
     defs: commonDefs(c, H), body: b + frameBorder(c, W, H),
   });
 }
