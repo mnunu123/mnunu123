@@ -46,6 +46,8 @@ STM32 펌웨어부터 ROS2 비전, 관제 웹까지 한 시스템으로 묶었�
   </picture>
 </div>
 
+<p align="center"><b>TOP 1%</b> · AX인재전쟁 온라인 1회차 삼일PwC 과제 — 참가자 2,916명 중 상위 1% (2026.11)</p>
+
 <details>
 <summary><b>수상 15건 전체 보기</b></summary>
 
@@ -401,6 +403,13 @@ InMoov i2Head · Arduino Mega · PCA9685 · Python · FastAPI · Whisper STT · 
 - 제안 구조에서 세대당 기금 소요 2.06억 → 0.91억 원(−56%), 기금 1조 원당 지원 세대 4,854 → 11,032 (2.3배)
 
 **포트폴리오** · [숫자가 틀리면 안 되는 문서](https://my-project-one-sigma-74.vercel.app/project/docs)
+
+</details>
+
+<details>
+<summary><b>corevia-recall-desk | AX인재전쟁 온라인 1회차 상위 1%</b></summary>
+
+AX인재전쟁 온라인 1회차 삼일PwC 과제, 1인. 참가자 2,916명 중 상위 1%를 받았습니다. 업무 과제 중 '품질 이슈와 공급 복구'를 골라, 클레임을 제조 로트까지 따라가 회수 범위와 재공급을 정하는 품질팀용 앱을 만들었습니다.
 
 </details>
 
